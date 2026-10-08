@@ -1,0 +1,5 @@
+{
+  "name": "usagemonitor",
+  "owner": { "name": "Stef Bulteel" },
+  "plugins": [{ "name": "usage-band", "source": "./" }]
+}
